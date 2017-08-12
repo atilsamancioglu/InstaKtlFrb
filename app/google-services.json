@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637914835206",
+    "firebase_url": "https://fir-ktl.firebaseio.com",
+    "project_id": "fir-ktl",
+    "storage_bucket": "fir-ktl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637914835206:android:f48eb11ff8ebdc55",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.instaktlfrb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637914835206-bbg6gr6f19uluqkrj442db778ifmmmp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atilsamancioglu.instaktlfrb",
+            "certificate_hash": "f2fb7e526add12a17bc524ff791d787db1156064"
+          }
+        },
+        {
+          "client_id": "637914835206-maf1hllqvsid68nf4okhvdahtr82f7in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwNgIaaB8X3T3XlypGZG7NEAuxNAH_YY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637914835206-maf1hllqvsid68nf4okhvdahtr82f7in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
